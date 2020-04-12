@@ -1,1 +1,4 @@
-# amu-core2
+```
+npm i
+npm runs tart
+```
